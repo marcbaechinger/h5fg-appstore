@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<repository>
+    <application>
+        <id>2</id>
+        <name>Calculator</name>
+        <description>A calculator</description>
+        <path>calculator</path>
+        <repositoryUrl>https://github.com/marcbaechinger/pwd-manager.git</repositoryUrl>
+    </application>
+</repository>
+

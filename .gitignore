@@ -1,2 +1,9 @@
 h5fg-appstore/build
 
+/h5fg-adn/nbproject/private/
+/h5fg-adn/build/
+/h5fg-common/nbproject/private/
+/h5fg-appstore/dist/
+/h5fg-adn/dist/
+/h5fg-common/build/
+/h5fg-common/dist/

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<appstore>
+    
+    <application>
+        <id>1</id>
+        <name>App Store</name>
+        <description>The app store frontend</description>
+        <appUrl>http://localhost:8080/adn/repositories/gugus</appUrl>
+    </application>
+    
+    <application>
+        <id>2</id>
+        <name>Password Manager</name>
+        <description>Password Manager</description>
+        <appUrl>http://localhost:8080/adn/repositories/zorro/</appUrl>
+    </application>
+    
+    <application>
+        <id>3</id>
+        <name>Speakers-Clock</name>
+        <description>A clock for speackers at conferences</description>
+        <appUrl>http://localhost:8080/rdn/speakersclock</appUrl>
+    </application>
+    
+    <application>
+        <id>4</id>
+        <name>Calories-Counter</name>
+        <description>Count your calories</description>
+        <appUrl>http://localhost:8080/rdn/calories</appUrl>
+    </application>
+    
+</appstore>
+

@@ -1,0 +1,8 @@
+<legend>
+    All Applications
+    <label class="label" ng-click="getJSON('http://localhost:8080/appstore/api/apps')">http://localhost:8080/appstore/api/apps</label>
+</legend>
+<textarea class="json" ng-show="model.json">{{model.json}}</textarea>
+<ul class="app-list">
+    <li class="app-list-item" ng-repeat="app in applications"><a href="{{app.appUrl}}">{{app.name}}</a></li>
+</ul>
